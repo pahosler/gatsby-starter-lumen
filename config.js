@@ -24,7 +24,7 @@ module.exports = {
   ],
   author: {
     name: 'P. A. Hosler',
-    photo: '/me.jpg',
+    photo: '/eugene.png',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '#',

@@ -1,5 +1,5 @@
 ---
-title: Perfecting the Art of Perfection
+title: Flutter Slide Puzzle
 date: '2019-01-03T23:46:37.121Z'
 template: 'post'
 draft: false
